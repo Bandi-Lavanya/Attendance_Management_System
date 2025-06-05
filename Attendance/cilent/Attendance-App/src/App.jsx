@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import AddAttendance from './components/AddAttendance';
 import DeleteStudent from './components/DeleteStudent';
 import GetStudentsData from './components/GetStudentsData';
-import Login from './components/Login'; 
+import Login from './components/login'; 
 import Signup from './components/Signup'; 
 import StudentAttendance from './components/Student-Attendane'; // Ensure this path is correct
 import UpdateStudent from './components/UpdateStudent';
